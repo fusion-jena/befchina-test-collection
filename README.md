@@ -31,7 +31,7 @@ Each datasets is available with the following pattern: https://data.botanik.uni-
 
 ## Human Assessments
 
-The human assessments are available in the provided csv file complying with the TREC benchmark data format. An entry in the cv file looks as follows:
+The human assessments are available in the provided txt file complying with the TREC benchmark data format. An entry in the cv file looks as follows:
 
 ```1::161::1::1424380312
 ```
