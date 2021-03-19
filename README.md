@@ -8,7 +8,7 @@ Further information on the BEF-China project can be obtained from the website: [
 
 The data-portal is available under this link [https://data.botanik.uni-halle.de](https://data.botanik.uni-halle.de).
 
-Each datasets is available with the following pattern: https://data.botanik.uni-halle.de/bef-china/datasets/<dataset-number>, e.g., https://data.botanik.uni-halle.de/bef-china/datasets/630
+Each datasets is available with the following pattern: `https://data.botanik.uni-halle.de/bef-china/datasets/<dataset-number>`, e.g., https://data.botanik.uni-halle.de/bef-china/datasets/630
 
 ## Questions
 
