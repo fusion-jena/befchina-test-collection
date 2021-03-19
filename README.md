@@ -1,4 +1,4 @@
-# BEFChina test collection for dataset search
+# BEF-China test collection for dataset search
 
 This repository provides a test collection for dataset search in biodiversity. The test collections consists of 14 questions collected in different biodiversity research related projects and refelecting real user informations needs, a corpus of 372 datasets created in the scope of the [BEF-China project](https://bef-china.com) and human assessments evaluating which dataset is relevant for which question. 
 
