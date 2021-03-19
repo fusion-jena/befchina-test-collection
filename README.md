@@ -1,6 +1,6 @@
 # BEFChina test collection for dataset search
 
-This repository provides a test collection for dataset search in biodiversity. The test collections consists of 14 questions collected in different biodiversity research related projects and refelecting real user informations needs, a corpus of 372 datasets created in the scope of the [BEF-China project] (https://bef-china.com) and human assessments evaluating which dataset is relevant for which question. 
+This repository provides a test collection for dataset search in biodiversity. The test collections consists of 14 questions collected in different biodiversity research related projects and refelecting real user informations needs, a corpus of 372 datasets created in the scope of the [BEF-China project](https://bef-china.com) and human assessments evaluating which dataset is relevant for which question. 
 
 Further information on the BEF-China project can be obtained from the website: [https://bef-china.com](https://bef-china.com).
 
@@ -33,7 +33,8 @@ Each datasets is available with the following pattern: https://data.botanik.uni-
 
 The human assessments are available in the provided txt file complying with the TREC benchmark data format. An entry in the cv file looks as follows:
 
-```1::161::1::1424380312
+```
+1::161::1::1424380312
 ```
 
 The first number denotes the question number, the second number provides the dataset number, the third number denotes the relevance judgment (1-relevant) and the last number is the timestamp of the creation of the entry. All datasets of the corpus that are not mentioned for a question are not deemed relevant.
