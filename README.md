@@ -42,7 +42,7 @@ The first number denotes the question number, the second number provides the dat
 
 ## Licenses
 
-*The BEF-China test collection is distributed under the [CC BY NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
+*The BEF-China test collection is distributed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)*
 
 ## Citation
 
