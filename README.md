@@ -55,4 +55,6 @@ The BEF-China test collection is licensed under a
 
 ## Citation
 
-TBD
+When reusing the dataset please cite it as follows:
+
+Felicitas Löffler, Andreas Schuldt, Birgitta König-Ries, Helge Bruelheide, & Friederike Klan. (2021). fusion-jena/befchina-test-collection: Minor service release (Version v1.0.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4704947
