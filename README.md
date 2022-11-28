@@ -32,10 +32,12 @@ Each dataset is available with the following pattern: `https://data.botanik.uni-
 
 ## Human Assessments
 
-The human assessments are available in the provided txt file complying with the TREC benchmark data format. An entry in the txt file looks as follows:
+The human assessments are available in the provided txt file complying with the TREC benchmark data format. 
+An entry in the txt file looks as follows:
+<TOPIC><ITERATION><DATASET NUMBER><RELEVANCE>
 
 ```
-1::161::1::1424380312
+1 0 161 1
 ```
 
 The first number denotes the question number, the second number provides the dataset number, the third number denotes the relevance judgment (1-relevant) and the last number is the timestamp of the creation of the entry. All datasets of the corpus that are not mentioned for a question are not deemed relevant.
