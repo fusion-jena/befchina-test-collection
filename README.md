@@ -1,5 +1,7 @@
 # BEF-China test collection for dataset search
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4638089.svg)](https://doi.org/10.5281/zenodo.4638089)
+
 This repository provides a test collection for dataset search in biodiversity. The test collections consists of 14 questions collected in different biodiversity research related projects and reflecting real user informations needs, a corpus of 372 datasets created in the scope of the [BEF-China project](https://bef-china.com) and human assessments evaluating which dataset is relevant to a question. 
 
 Further information on the BEF-China project can be obtained from the website: [https://bef-china.com](https://bef-china.com).
@@ -59,4 +61,4 @@ The BEF-China test collection is licensed under a
 
 When reusing the dataset please cite it as follows:
 
-Felicitas Löffler, Andreas Schuldt, Birgitta König-Ries, Helge Bruelheide, & Friederike Klan. (2021). fusion-jena/befchina-test-collection: Minor service release (Version v1.0.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4704947
+Felicitas Löffler, Andreas Schuldt, Birgitta König-Ries, Helge Bruelheide, & Friederike Klan. (2022). fusion-jena/befchina-test-collection: Major service release (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7371711
